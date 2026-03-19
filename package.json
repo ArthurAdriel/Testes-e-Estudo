@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/ArthurAdriel/Testes-e-Estudo#readme",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^5.2.1",
-    "nodemon": "^3.1.14",
     "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
