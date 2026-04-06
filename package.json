@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/ArthurAdriel/Testes-e-Estudo#readme",
   "dependencies": {
+    "body-parser": "^2.2.2",
     "consign": "^0.1.6",
     "express": "^5.2.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.20.0",
     "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
